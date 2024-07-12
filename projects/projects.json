@@ -1,0 +1,48 @@
+[
+  {
+    "name": "RideTunez",
+    "desc": "A Ride Booking App Developed using Java and JavaFX for frontEnd .This application helps user to book rides and it offers some other features for time pass  ",
+    "image": "RideTunez",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Ahmad030012/RideTunz_App"
+    }
+  },
+
+  {
+    "name": "PakPro",
+    "desc": "A parking Management System Developed using HTML,CSS and JavaScript for FrontEnd and NodeJs with PostgresSQL for BackEnd.",
+    "image": "PakPro",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Ahmad030012/PakPro_Parking_ManagementSystem"
+    }
+  },
+  {
+    "name": "Amazona Clone",
+    "desc": "A fully functional Amazone Clone Developed using HTML,CSS,Bootstrap,JavaScript and React and also Nodejs and mongodb   ",
+    "image": "Amazona",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Ahmad030012/Amazona-Amazon-Clone-"
+    }
+  },
+  {
+    "name": "DeepearningAI Clone",
+    "desc": "A bisc clone of DeeplearningAI.com using HTML, CSS , Bootstrap and JavaScript   ",
+    "image": "/DeeplearningAI",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Ahmad030012/DeepLearningAi"
+    }
+  },
+  {
+    "name": "Message Encode/Decoder",
+    "desc": "A basic Message Encoder and Decoder Developed using C programming   ",
+    "image": "Encoder_Decoder",
+    "links": {
+    
+      "code": "https://github.com/Ahmad030012/Message-Encoder-Decoder"
+    }
+  }
+]
