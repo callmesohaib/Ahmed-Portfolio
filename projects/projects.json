@@ -12,7 +12,7 @@
   {
     "name": "PakPro",
     "desc": "A parking Management System Developed using HTML,CSS and JavaScript for FrontEnd and NodeJs with PostgresSQL for BackEnd.",
-    "image": "PakPro",
+    "image": "pakpro",
     "links": {
       "view": "",
       "code": "https://github.com/Ahmad030012/PakPro_Parking_ManagementSystem"
