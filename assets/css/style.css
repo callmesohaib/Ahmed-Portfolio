@@ -733,9 +733,11 @@ header .navbar ul li a:hover {
 .work .viewall {
   display: flex;
   justify-content: center;
+  
 }
 .work .viewall .btn {
   position: relative;
+  width: 150px;
   line-height: 0;
   padding: 1.6rem 3rem;
   border-radius: 0.5em;
